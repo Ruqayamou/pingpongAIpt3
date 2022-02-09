@@ -1,0 +1,43 @@
+.heading{
+    text-align: left;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading h3{
+    display:inline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading button{
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid white;
+}
+
+#status, #play, #restart{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4{
+    background-color: white;
+    line-height: 2 ;
+    margin: 0;
+}
+
+.modal-dialog{
+    width: 70%;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
